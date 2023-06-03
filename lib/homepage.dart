@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
               height: 55,
               //
               color: const Color(0xFF820ad1),
-              child: const Text('Olá, Thailson',
+              child: const Text('Olá, Usuário',
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w500,
